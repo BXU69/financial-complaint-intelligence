@@ -1,0 +1,91 @@
+model,population,issue,precision,recall,f1,support
+tfidf_logistic,full_validation,"Advertising and marketing, including promotional offers",0.6878306878306878,0.4513888888888889,0.5450733752620545,288
+tfidf_logistic,full_validation,Closing your account,0.6262458471760798,0.6829710144927537,0.6533795493934142,552
+tfidf_logistic,full_validation,Credit monitoring or identity theft protection services,0.0,0.0,0.0,18
+tfidf_logistic,full_validation,Fees or interest,0.6747448979591837,0.7546362339514978,0.7124579124579125,701
+tfidf_logistic,full_validation,Getting a credit card,0.7101604278074867,0.8331242158092849,0.766743648960739,797
+tfidf_logistic,full_validation,Improper use of your report,0.5294117647058824,0.16981132075471697,0.2571428571428571,53
+tfidf_logistic,full_validation,Incorrect information on your report,0.3832599118942731,0.3411764705882353,0.36099585062240663,255
+tfidf_logistic,full_validation,"Other features, terms, or problems",0.46780551905387646,0.478494623655914,0.47308970099667774,744
+tfidf_logistic,full_validation,Problem when making payments,0.5637982195845698,0.4909560723514212,0.5248618784530387,387
+tfidf_logistic,full_validation,Problem with a company's investigation into an existing problem,0.8918918918918919,0.4439461883408072,0.592814371257485,223
+tfidf_logistic,full_validation,Problem with a purchase shown on your statement,0.7961819202695115,0.8834890965732087,0.8375664500886001,1605
+tfidf_logistic,full_validation,Problem with fraud alerts or security freezes,0.0,0.0,0.0,6
+tfidf_logistic,full_validation,Struggling to pay your bill,0.6666666666666666,0.2647058823529412,0.37894736842105264,68
+tfidf_logistic,full_validation,Trouble using your card,0.6236559139784946,0.4496124031007752,0.5225225225225225,258
+tfidf_logistic,full_validation,Unable to get your credit report or credit score,0.0,0.0,0.0,2
+tfidf_logistic,no_training_exact_overlap,"Advertising and marketing, including promotional offers",0.6878306878306878,0.4513888888888889,0.5450733752620545,288
+tfidf_logistic,no_training_exact_overlap,Closing your account,0.6262458471760798,0.6829710144927537,0.6533795493934142,552
+tfidf_logistic,no_training_exact_overlap,Credit monitoring or identity theft protection services,0.0,0.0,0.0,18
+tfidf_logistic,no_training_exact_overlap,Fees or interest,0.6747448979591837,0.7546362339514978,0.7124579124579125,701
+tfidf_logistic,no_training_exact_overlap,Getting a credit card,0.6715151515151515,0.8064046579330422,0.7328042328042328,687
+tfidf_logistic,no_training_exact_overlap,Improper use of your report,0.5294117647058824,0.16981132075471697,0.2571428571428571,53
+tfidf_logistic,no_training_exact_overlap,Incorrect information on your report,0.37777777777777777,0.3386454183266932,0.35714285714285715,251
+tfidf_logistic,no_training_exact_overlap,"Other features, terms, or problems",0.46780551905387646,0.478494623655914,0.47308970099667774,744
+tfidf_logistic,no_training_exact_overlap,Problem when making payments,0.5637982195845698,0.4909560723514212,0.5248618784530387,387
+tfidf_logistic,no_training_exact_overlap,Problem with a company's investigation into an existing problem,0.8305084745762712,0.2832369942196532,0.4224137931034483,173
+tfidf_logistic,no_training_exact_overlap,Problem with a purchase shown on your statement,0.7961819202695115,0.8834890965732087,0.8375664500886001,1605
+tfidf_logistic,no_training_exact_overlap,Problem with fraud alerts or security freezes,0.0,0.0,0.0,6
+tfidf_logistic,no_training_exact_overlap,Struggling to pay your bill,0.6666666666666666,0.2647058823529412,0.37894736842105264,68
+tfidf_logistic,no_training_exact_overlap,Trouble using your card,0.6236559139784946,0.4496124031007752,0.5225225225225225,258
+tfidf_logistic,no_training_exact_overlap,Unable to get your credit report or credit score,0.0,0.0,0.0,2
+tfidf_logistic_balanced,full_validation,"Advertising and marketing, including promotional offers",0.5755627009646302,0.6215277777777778,0.5976627712854758,288
+tfidf_logistic_balanced,full_validation,Closing your account,0.603125,0.6992753623188406,0.6476510067114094,552
+tfidf_logistic_balanced,full_validation,Credit monitoring or identity theft protection services,0.0,0.0,0.0,18
+tfidf_logistic_balanced,full_validation,Fees or interest,0.7218934911242604,0.6961483594864479,0.7087872185911401,701
+tfidf_logistic_balanced,full_validation,Getting a credit card,0.7580213903743316,0.7114178168130489,0.7339805825242719,797
+tfidf_logistic_balanced,full_validation,Improper use of your report,0.1981981981981982,0.41509433962264153,0.2682926829268293,53
+tfidf_logistic_balanced,full_validation,Incorrect information on your report,0.30617283950617286,0.48627450980392156,0.37575757575757573,255
+tfidf_logistic_balanced,full_validation,"Other features, terms, or problems",0.5386064030131826,0.3844086021505376,0.44862745098039214,744
+tfidf_logistic_balanced,full_validation,Problem when making payments,0.5081206496519721,0.5658914728682171,0.5354523227383863,387
+tfidf_logistic_balanced,full_validation,Problem with a company's investigation into an existing problem,0.7727272727272727,0.45739910313901344,0.5746478873239437,223
+tfidf_logistic_balanced,full_validation,Problem with a purchase shown on your statement,0.8872752420470262,0.7993769470404984,0.8410357259914782,1605
+tfidf_logistic_balanced,full_validation,Problem with fraud alerts or security freezes,0.0,0.0,0.0,6
+tfidf_logistic_balanced,full_validation,Struggling to pay your bill,0.3082706766917293,0.6029411764705882,0.4079601990049751,68
+tfidf_logistic_balanced,full_validation,Trouble using your card,0.4880636604774536,0.7131782945736435,0.5795275590551181,258
+tfidf_logistic_balanced,full_validation,Unable to get your credit report or credit score,0.0,0.0,0.0,2
+tfidf_logistic_balanced,no_training_exact_overlap,"Advertising and marketing, including promotional offers",0.5755627009646302,0.6215277777777778,0.5976627712854758,288
+tfidf_logistic_balanced,no_training_exact_overlap,Closing your account,0.603125,0.6992753623188406,0.6476510067114094,552
+tfidf_logistic_balanced,no_training_exact_overlap,Credit monitoring or identity theft protection services,0.0,0.0,0.0,18
+tfidf_logistic_balanced,no_training_exact_overlap,Fees or interest,0.7218934911242604,0.6961483594864479,0.7087872185911401,701
+tfidf_logistic_balanced,no_training_exact_overlap,Getting a credit card,0.7163009404388715,0.6652110625909753,0.689811320754717,687
+tfidf_logistic_balanced,no_training_exact_overlap,Improper use of your report,0.1981981981981982,0.41509433962264153,0.2682926829268293,53
+tfidf_logistic_balanced,no_training_exact_overlap,Incorrect information on your report,0.3027295285359802,0.4860557768924303,0.3730886850152905,251
+tfidf_logistic_balanced,no_training_exact_overlap,"Other features, terms, or problems",0.5386064030131826,0.3844086021505376,0.44862745098039214,744
+tfidf_logistic_balanced,no_training_exact_overlap,Problem when making payments,0.5081206496519721,0.5658914728682171,0.5354523227383863,387
+tfidf_logistic_balanced,no_training_exact_overlap,Problem with a company's investigation into an existing problem,0.65,0.30057803468208094,0.41106719367588934,173
+tfidf_logistic_balanced,no_training_exact_overlap,Problem with a purchase shown on your statement,0.8872752420470262,0.7993769470404984,0.8410357259914782,1605
+tfidf_logistic_balanced,no_training_exact_overlap,Problem with fraud alerts or security freezes,0.0,0.0,0.0,6
+tfidf_logistic_balanced,no_training_exact_overlap,Struggling to pay your bill,0.3082706766917293,0.6029411764705882,0.4079601990049751,68
+tfidf_logistic_balanced,no_training_exact_overlap,Trouble using your card,0.4880636604774536,0.7131782945736435,0.5795275590551181,258
+tfidf_logistic_balanced,no_training_exact_overlap,Unable to get your credit report or credit score,0.0,0.0,0.0,2
+tfidf_logistic_all_training_text,full_validation,"Advertising and marketing, including promotional offers",0.6822916666666666,0.4548611111111111,0.5458333333333333,288
+tfidf_logistic_all_training_text,full_validation,Closing your account,0.6235489220563848,0.6811594202898551,0.651082251082251,552
+tfidf_logistic_all_training_text,full_validation,Credit monitoring or identity theft protection services,0.0,0.0,0.0,18
+tfidf_logistic_all_training_text,full_validation,Fees or interest,0.6739130434782609,0.7517831669044223,0.7107215104517869,701
+tfidf_logistic_all_training_text,full_validation,Getting a credit card,0.7138297872340426,0.8419071518193224,0.7725964306275187,797
+tfidf_logistic_all_training_text,full_validation,Improper use of your report,0.5625,0.16981132075471697,0.2608695652173913,53
+tfidf_logistic_all_training_text,full_validation,Incorrect information on your report,0.3953488372093023,0.3333333333333333,0.3617021276595745,255
+tfidf_logistic_all_training_text,full_validation,"Other features, terms, or problems",0.4669312169312169,0.47446236559139787,0.4706666666666667,744
+tfidf_logistic_all_training_text,full_validation,Problem when making payments,0.5598802395209581,0.48320413436692505,0.5187239944521498,387
+tfidf_logistic_all_training_text,full_validation,Problem with a company's investigation into an existing problem,0.8360655737704918,0.45739910313901344,0.591304347826087,223
+tfidf_logistic_all_training_text,full_validation,Problem with a purchase shown on your statement,0.7952888390353338,0.8834890965732087,0.8370720188902007,1605
+tfidf_logistic_all_training_text,full_validation,Problem with fraud alerts or security freezes,0.0,0.0,0.0,6
+tfidf_logistic_all_training_text,full_validation,Struggling to pay your bill,0.6923076923076923,0.2647058823529412,0.3829787234042553,68
+tfidf_logistic_all_training_text,full_validation,Trouble using your card,0.6276595744680851,0.4573643410852713,0.5291479820627802,258
+tfidf_logistic_all_training_text,full_validation,Unable to get your credit report or credit score,0.0,0.0,0.0,2
+tfidf_logistic_all_training_text,no_training_exact_overlap,"Advertising and marketing, including promotional offers",0.6822916666666666,0.4548611111111111,0.5458333333333333,288
+tfidf_logistic_all_training_text,no_training_exact_overlap,Closing your account,0.6235489220563848,0.6811594202898551,0.651082251082251,552
+tfidf_logistic_all_training_text,no_training_exact_overlap,Credit monitoring or identity theft protection services,0.0,0.0,0.0,18
+tfidf_logistic_all_training_text,no_training_exact_overlap,Fees or interest,0.6739130434782609,0.7517831669044223,0.7107215104517869,701
+tfidf_logistic_all_training_text,no_training_exact_overlap,Getting a credit card,0.6759036144578313,0.8165938864628821,0.7396176664469347,687
+tfidf_logistic_all_training_text,no_training_exact_overlap,Improper use of your report,0.5625,0.16981132075471697,0.2608695652173913,53
+tfidf_logistic_all_training_text,no_training_exact_overlap,Incorrect information on your report,0.38967136150234744,0.33067729083665337,0.3577586206896552,251
+tfidf_logistic_all_training_text,no_training_exact_overlap,"Other features, terms, or problems",0.4669312169312169,0.47446236559139787,0.4706666666666667,744
+tfidf_logistic_all_training_text,no_training_exact_overlap,Problem when making payments,0.5598802395209581,0.48320413436692505,0.5187239944521498,387
+tfidf_logistic_all_training_text,no_training_exact_overlap,Problem with a company's investigation into an existing problem,0.7428571428571429,0.30057803468208094,0.4279835390946502,173
+tfidf_logistic_all_training_text,no_training_exact_overlap,Problem with a purchase shown on your statement,0.7952888390353338,0.8834890965732087,0.8370720188902007,1605
+tfidf_logistic_all_training_text,no_training_exact_overlap,Problem with fraud alerts or security freezes,0.0,0.0,0.0,6
+tfidf_logistic_all_training_text,no_training_exact_overlap,Struggling to pay your bill,0.6923076923076923,0.2647058823529412,0.3829787234042553,68
+tfidf_logistic_all_training_text,no_training_exact_overlap,Trouble using your card,0.6276595744680851,0.4573643410852713,0.5291479820627802,258
+tfidf_logistic_all_training_text,no_training_exact_overlap,Unable to get your credit report or credit score,0.0,0.0,0.0,2

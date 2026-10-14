@@ -1,0 +1,16 @@
+issue,actual_rows,predicted_rows,correct_rows
+"Advertising and marketing, including promotional offers",288,189,130
+Closing your account,552,602,377
+Credit monitoring or identity theft protection services,18,0,0
+Fees or interest,701,784,529
+Getting a credit card,797,935,664
+Improper use of your report,53,17,9
+Incorrect information on your report,255,227,87
+"Other features, terms, or problems",744,761,356
+Problem when making payments,387,337,190
+Problem with a company's investigation into an existing problem,223,111,99
+Problem with a purchase shown on your statement,1605,1781,1418
+Problem with fraud alerts or security freezes,6,0,0
+Struggling to pay your bill,68,27,18
+Trouble using your card,258,186,116
+Unable to get your credit report or credit score,2,0,0

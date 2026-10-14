@@ -1,0 +1,4 @@
+model,training_rows,fit_seconds,validation_prediction_seconds,solver_iterations
+tfidf_logistic,30180,29.824767124955542,0.7355152920354158,129
+tfidf_logistic_balanced,30180,22.064576165983453,0.7321912500192411,89
+tfidf_logistic_all_training_text,33117,32.226029541983735,0.7554169169743545,139
