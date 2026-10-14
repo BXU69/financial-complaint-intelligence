@@ -1,0 +1,2 @@
+text_rows,missing_issue_rows,min_chars,mean_chars,median_chars,p90_chars,p99_chars,max_chars,rows_at_most_50_chars
+6958,0,49,1139.1,777.5,2405.0,5672.510000000017,31657,4

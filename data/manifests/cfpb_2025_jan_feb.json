@@ -1,0 +1,28 @@
+{
+  "dataset": "CFPB Consumer Complaint Narratives Archive",
+  "source_page": "https://www.consumerfinance.gov/foia-requests/foia-electronic-reading-room/cfpb-consumer-complaint-database-narratives-archive/",
+  "download_url": "https://files.consumerfinance.gov/f/documents/CCDB_Export_9_January_2025_through_February_2025.zip",
+  "source_label": "January 2025 through February 2025",
+  "local_file": "data/raw/CCDB_Export_9_January_2025_through_February_2025.zip",
+  "size_bytes": 75475199,
+  "sha256": "11c18bb0973eed8f5e4f66e2979346af0671a3aefcb5a6b9eec73009d53cff64",
+  "archive_members": [
+    {
+      "name": "CCDB_Export_9_January_2025_through_February_2025.csv",
+      "uncompressed_size_bytes": 491908736
+    }
+  ],
+  "manifest_created_at_utc": "2026-10-14T00:10:55.817390+00:00",
+  "date_coverage_verified": true,
+  "observed_date_coverage": {
+    "earliest_received_date": "2025-01-01",
+    "latest_received_date": "2025-02-28",
+    "missing_received_dates": 0,
+    "unparsed_received_dates": 0
+  },
+  "observed_counts": {
+    "total_rows": 811019,
+    "distinct_complaint_ids": 811019,
+    "rows_with_narrative": 265405
+  }
+}

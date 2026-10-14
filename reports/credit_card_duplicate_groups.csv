@@ -1,0 +1,75 @@
+text_group_id,group_size,distinct_issue_labels,issue_labels,min_chars,max_chars
+6fa05b0b11c1b3f6163c005ee8cfcd2d,74,1,Getting a credit card,182,182
+b6448b4a3e018926dcec2907ce30db90,71,2,Incorrect information on your report | Problem with a company's investigation into an existing problem,275,275
+0683cf6afaca25e2762510f7044fd839,51,1,Problem with a company's investigation into an existing problem,276,276
+f70c453814509a016e066203ca4cb0a5,29,1,Problem with a company's investigation into an existing problem,261,261
+35a37dbeffaf64b1ec28389de8556301,26,2,Incorrect information on your report | Problem with a company's investigation into an existing problem,251,251
+7d4b147e4fd6922492951f850681a7a8,24,1,Problem with a company's investigation into an existing problem,341,341
+fa83941ee79162825526cfec06320be2,23,1,Problem with a company's investigation into an existing problem,313,313
+eacbf50bdbc0b844ac64ebde64a63c24,16,1,Problem with a company's investigation into an existing problem,257,257
+2c7d9c18508867d589b5e9f0cb4e6a7f,15,1,Problem with a company's investigation into an existing problem,338,338
+64cb3ff3af37e436f32c30638a518d3f,14,1,Trouble using your card,193,193
+bf247de6d19e6e63a300cf4572c61843,14,1,Problem with a company's investigation into an existing problem,321,321
+214494cbb06a273919fea92998eb48fd,8,1,Problem with a company's investigation into an existing problem,269,269
+d62f870a4e70c5c164ec08c9d8b92a24,8,3,"Fees or interest | Other features, terms, or problems | Problem with a company's investigation into an existing problem",526,526
+af35623d87c418ddcc8985800d83cf30,6,1,Problem with a company's investigation into an existing problem,274,274
+c2fadeccc35e76664f0e4ea07e970f20,6,1,Closing your account,1309,1309
+ffc4425b5c9697bd89f444c507a6b598,6,1,Problem with a company's investigation into an existing problem,326,326
+77822e2b46e340d0bae22a3f9199c500,5,1,Improper use of your report,339,339
+caff470e8b50d666c6aadd465b68dd8f,5,1,Problem with a company's investigation into an existing problem,283,283
+cba9ae806d1ccf25bb448dc0749d0dde,5,1,Problem with a company's investigation into an existing problem,256,256
+d63b2cbfa53768a77c67831e3ede0fce,5,1,Problem with a company's investigation into an existing problem,338,338
+e4e8ba70152b46266377b8b65ed1dfad,5,1,Problem with a company's investigation into an existing problem,293,293
+ed5310b841cbaa7c19c265092bb8a99b,5,1,Problem with a company's investigation into an existing problem,375,375
+0dc8ca56ba1017ec08c0aa3ccc89d7e6,4,1,Problem with a company's investigation into an existing problem,281,281
+16fb62d100d5b50c60d40bc0bf3458b8,4,1,Problem with a company's investigation into an existing problem,287,287
+26059d83399d0b387752415731dd53f3,4,1,Improper use of your report,116,116
+733ed6c39702df24762146f57a63e3e3,4,1,Closing your account,309,309
+85cfe5c3070256ec83138fbe03c5bc48,4,1,Problem with a company's investigation into an existing problem,253,253
+deacbe431472c8804985a1560035ccff,4,1,Problem with a company's investigation into an existing problem,333,333
+0437b8201f42509216c82d215d391994,3,1,Incorrect information on your report,501,501
+0ea07c2e8a40f2c028e257160567f68d,3,1,Getting a credit card,258,258
+1030f2172d3d98c57bd04effb81e42b9,3,1,Problem with a company's investigation into an existing problem,240,240
+4f94c60a1f67da6488f91e10ff3219b1,3,1,Problem with a company's investigation into an existing problem,279,279
+5a9d3b681d65b1305a6ced4021cb1ab1,3,1,Trouble using your card,191,191
+6e9bc99cd6476406772b38e03f85967d,3,1,Getting a credit card,204,204
+7602ac16d447fa6c08c8d7d2ee3c2784,3,1,Getting a credit card,182,182
+8508cf21bbb25b9a9e7c55cc436ae45a,3,1,Problem with a company's investigation into an existing problem,319,319
+9bc98a3bdd5cca81dd6938afb3089335,3,1,Problem with a company's investigation into an existing problem,275,275
+a6597141aa41021dfbbcf62ab25cb81d,3,1,Getting a credit card,275,275
+b695d75b50d539246d836e2e34a40222,3,2,"Improper use of your report | Other features, terms, or problems",278,278
+bdfc6342e00ba3c6fc5c8babc2176881,3,1,Closing your account,970,977
+f99e49f198b5e0002f5ec359d569a46f,3,1,Problem with a company's investigation into an existing problem,340,340
+fde6bd25f94920ea3f15163e1d590191,3,1,Problem with a company's investigation into an existing problem,258,258
+fe763eb3512d98b55b958d3a7dcd74e1,3,1,Problem with a company's investigation into an existing problem,334,334
+01df4ffb48da065971aea5416f55c831,2,2,Incorrect information on your report | Problem with a purchase shown on your statement,612,612
+0aba7bb22c732d5205cebc6074da5b3c,2,1,Closing your account,2332,2336
+1d3eff867741090f2a4a353bb164f51c,2,1,Closing your account,1057,1057
+256eacd2d4f679d553adf19c276bc899,2,1,Fees or interest,888,888
+33e31e533ec8d0fdae0ba9d0a5fa69a6,2,1,Fees or interest,514,514
+435b89e97883d18104305c9d6375c544,2,1,"Other features, terms, or problems",658,662
+49a70e7622de0c6a509d8c1d4af3cfc8,2,1,Problem with a company's investigation into an existing problem,324,324
+4f5a866b00341cad2abd1084918ee74d,2,1,Getting a credit card,167,167
+5bf8bb0b0d6281b4ad382376ee2b72a9,2,1,Problem with a company's investigation into an existing problem,70,70
+6be7f7877fc5d1c16511f78f655da298,2,1,Problem with a company's investigation into an existing problem,71,71
+75f8e60b8899e255e08b43101491b5e7,2,1,Problem with a company's investigation into an existing problem,326,326
+8349430471cb7b83ec9b0326b465ca29,2,2,Incorrect information on your report | Problem when making payments,433,433
+8585dfadef6ee22948c7ec521769822f,2,1,Problem with a company's investigation into an existing problem,81,81
+863d2462b3e252ff6b662675134add8a,2,1,Incorrect information on your report,573,573
+89f075d459d869d8dbd0090ae7154b75,2,1,Problem with a company's investigation into an existing problem,274,274
+8a590e8529ad42d906fc49aaf8b3fdb2,2,1,Getting a credit card,287,287
+909b7b53a2e1712b248eca8788a2feb2,2,1,Problem when making payments,728,728
+91200eea0e8161bf5fd634b4bb2298b2,2,1,"Advertising and marketing, including promotional offers",208,208
+9ec28f63ce69aff29113e1abd0ddf152,2,1,Closing your account,842,842
+a08bacc87d786ef312bf6624b47fb311,2,1,Fees or interest,1986,1988
+a59cb2ebe4ce600fdd5de66489159859,2,1,Incorrect information on your report,191,191
+a608b227cfcff7ab506fbdeacce3e035,2,1,Trouble using your card,192,192
+a6ff5447248aa83a4aadcd9daa78de63,2,1,Problem with a company's investigation into an existing problem,227,227
+acad25d6943a995dc15d278003e266c4,2,1,Problem when making payments,695,695
+b7d52416bfcb4d861a6947a8c9caba97,2,1,Problem with a company's investigation into an existing problem,258,258
+bedd2a7a6b2b1eb6106f6d06c1955b26,2,1,Getting a credit card,211,211
+dd2ba3481c37894d159fe5f0f946121e,2,1,Problem with a purchase shown on your statement,366,366
+e2e83c0d32b6fec65104968ba642def7,2,1,Closing your account,1306,1306
+ed895122e948b24e542961739668e15a,2,1,Problem with a company's investigation into an existing problem,264,264
+f34e6696b1029275329a915d41b478a0,2,1,Problem with a purchase shown on your statement,2403,2403
+fa40961f479feb97aa1e45dd4a7552ce,2,1,Problem with a company's investigation into an existing problem,275,275
