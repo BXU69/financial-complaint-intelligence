@@ -1,0 +1,2 @@
+total_rows,distinct_complaint_ids,missing_complaint_ids,earliest_received_date,latest_received_date,missing_received_dates,unparsed_received_dates,rows_with_narrative,narrative_coverage_pct
+591058,591058,0,2024-11-01,2024-12-31,0,0,154916,26.21

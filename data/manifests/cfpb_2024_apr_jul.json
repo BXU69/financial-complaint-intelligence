@@ -1,0 +1,17 @@
+{
+  "dataset": "CFPB Consumer Complaint Narratives Archive",
+  "source_id": "cfpb_2024_apr_jul",
+  "source_label": "April 2024 through July 2024",
+  "download_url": "https://files.consumerfinance.gov/f/documents/CCDB_Export_6_April_2024_through_July_2024.zip",
+  "local_file": "data/raw/CCDB_Export_6_April_2024_through_July_2024.zip",
+  "size_bytes": 77142558,
+  "sha256": "c8a6fb0d98287958e2c19b47e1a4211c4e43225d27123a3ca08d730a2b4ae0a5",
+  "archive_members": [
+    {
+      "name": "CCDB_Export_6_April_2024_through_July_2024.csv",
+      "uncompressed_size_bytes": 517112772
+    }
+  ],
+  "manifest_created_at_utc": "2026-10-14T00:39:40.716044+00:00",
+  "date_coverage_verified": false
+}

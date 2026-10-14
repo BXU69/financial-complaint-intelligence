@@ -1,0 +1,45 @@
+product,total_rows,rows_with_narrative,narrative_coverage_pct,source_id
+Credit reporting or other personal consumer reports,723020,214019,29.6,cfpb_2024_apr_jul
+Debt collection,48586,25047,51.55,cfpb_2024_apr_jul
+Credit card,25163,12399,49.27,cfpb_2024_apr_jul
+Checking or savings account,17081,9643,56.45,cfpb_2024_apr_jul
+Mortgage,6842,3906,57.09,cfpb_2024_apr_jul
+"Money transfer, virtual currency, or money service",5232,3105,59.35,cfpb_2024_apr_jul
+Student loan,4366,2487,56.96,cfpb_2024_apr_jul
+Vehicle loan or lease,4115,2394,58.18,cfpb_2024_apr_jul
+"Payday loan, title loan, personal loan, or advance loan",2723,1638,60.15,cfpb_2024_apr_jul
+Prepaid card,2060,1225,59.47,cfpb_2024_apr_jul
+Debt or credit management,715,469,65.59,cfpb_2024_apr_jul
+Credit reporting or other personal consumer reports,720753,183664,25.48,cfpb_2024_aug_oct
+Debt collection,47128,18422,39.09,cfpb_2024_aug_oct
+Credit card,21716,8233,37.91,cfpb_2024_aug_oct
+Checking or savings account,13645,7570,55.48,cfpb_2024_aug_oct
+Mortgage,5449,3133,57.5,cfpb_2024_aug_oct
+"Money transfer, virtual currency, or money service",4323,2597,60.07,cfpb_2024_aug_oct
+Student loan,3890,2004,51.52,cfpb_2024_aug_oct
+Vehicle loan or lease,3424,1914,55.9,cfpb_2024_aug_oct
+"Payday loan, title loan, personal loan, or advance loan",2369,1331,56.18,cfpb_2024_aug_oct
+Prepaid card,1254,721,57.5,cfpb_2024_aug_oct
+Debt or credit management,563,355,63.06,cfpb_2024_aug_oct
+Credit reporting or other personal consumer reports,521672,123356,23.65,cfpb_2024_nov_dec
+Debt collection,31879,11706,36.72,cfpb_2024_nov_dec
+Credit card,12792,5527,43.21,cfpb_2024_nov_dec
+Checking or savings account,9973,5648,56.63,cfpb_2024_nov_dec
+Mortgage,3501,2032,58.04,cfpb_2024_nov_dec
+"Money transfer, virtual currency, or money service",3147,2041,64.86,cfpb_2024_nov_dec
+Vehicle loan or lease,2386,1361,57.04,cfpb_2024_nov_dec
+Student loan,2239,1227,54.8,cfpb_2024_nov_dec
+"Payday loan, title loan, personal loan, or advance loan",1609,922,57.3,cfpb_2024_nov_dec
+Prepaid card,1178,680,57.72,cfpb_2024_nov_dec
+Debt or credit management,682,416,61.0,cfpb_2024_nov_dec
+Credit reporting or other personal consumer reports,659700,170863,25.9,cfpb_2025_jan_feb
+"Money transfer, virtual currency, or money service",55871,46258,82.79,cfpb_2025_jan_feb
+Debt collection,40862,15288,37.41,cfpb_2025_jan_feb
+Checking or savings account,23819,17070,71.67,cfpb_2025_jan_feb
+Credit card,15286,6958,45.52,cfpb_2025_jan_feb
+Student loan,4100,2201,53.68,cfpb_2025_jan_feb
+Mortgage,3958,2330,58.87,cfpb_2025_jan_feb
+Vehicle loan or lease,3278,1910,58.27,cfpb_2025_jan_feb
+"Payday loan, title loan, personal loan, or advance loan",1848,1121,60.66,cfpb_2025_jan_feb
+Prepaid card,1251,747,59.71,cfpb_2025_jan_feb
+Debt or credit management,1046,659,63.0,cfpb_2025_jan_feb

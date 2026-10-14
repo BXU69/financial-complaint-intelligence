@@ -1,0 +1,5 @@
+total_rows,distinct_complaint_ids,missing_complaint_ids,earliest_received_date,latest_received_date,missing_received_dates,unparsed_received_dates,rows_with_narrative,narrative_coverage_pct,source_id,date_bounds_match,internal_duplicate_id_rows
+839903,839903,0,2024-04-01,2024-07-31,0,0,276332,32.9,cfpb_2024_apr_jul,True,0
+824514,824514,0,2024-08-01,2024-10-31,0,0,229944,27.89,cfpb_2024_aug_oct,True,0
+591058,591058,0,2024-11-01,2024-12-31,0,0,154916,26.21,cfpb_2024_nov_dec,True,0
+811019,811019,0,2025-01-01,2025-02-28,0,0,265405,32.72,cfpb_2025_jan_feb,True,0
