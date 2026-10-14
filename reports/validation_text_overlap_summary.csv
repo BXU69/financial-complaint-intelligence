@@ -1,0 +1,3 @@
+reference,validation_text_rows,exact_overlap_rows,no_exact_overlap_rows,exact_overlap_pct
+baseline_training,5957,121,5836,2.03
+all_training_period_text,5957,164,5793,2.75

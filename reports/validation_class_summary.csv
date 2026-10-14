@@ -1,0 +1,16 @@
+issue,validation_text_rows,exact_overlap_with_training_period_rows,no_training_exact_overlap_rows,label_seen_in_baseline
+Problem with a purchase shown on your statement,1605,0,1605,True
+Getting a credit card,797,110,687,True
+"Other features, terms, or problems",744,0,744,True
+Fees or interest,701,0,701,True
+Closing your account,552,0,552,True
+Problem when making payments,387,0,387,True
+"Advertising and marketing, including promotional offers",288,0,288,True
+Trouble using your card,258,0,258,True
+Incorrect information on your report,255,4,251,True
+Problem with a company's investigation into an existing problem,223,50,173,True
+Struggling to pay your bill,68,0,68,True
+Improper use of your report,53,0,53,True
+Credit monitoring or identity theft protection services,18,0,18,True
+Problem with fraud alerts or security freezes,6,0,6,True
+Unable to get your credit report or credit score,2,0,2,True
