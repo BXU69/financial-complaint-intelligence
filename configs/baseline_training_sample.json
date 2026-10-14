@@ -1,0 +1,66 @@
+{
+  "policy_version": 1,
+  "training_period": {
+    "start": "2024-04-01",
+    "end": "2025-02-28"
+  },
+  "model_input": "narrative",
+  "target": "issue",
+  "exclude_conflicting_training_text_groups": true,
+  "exact_duplicate_selection": {
+    "sort_by": [
+      "received_date",
+      "complaint_id"
+    ],
+    "keep": "first"
+  },
+  "automatic_near_duplicate_removal": false,
+  "minimum_text_length_filter": null,
+  "counts": {
+    "excluded_label_conflict": 992,
+    "excluded_exact_duplicate": 1945,
+    "included": 30180
+  },
+  "labels": [
+    "Advertising and marketing, including promotional offers",
+    "Closing your account",
+    "Credit monitoring or identity theft protection services",
+    "Fees or interest",
+    "Getting a credit card",
+    "Improper use of your report",
+    "Incorrect information on your report",
+    "Other features, terms, or problems",
+    "Problem when making payments",
+    "Problem with a company's investigation into an existing problem",
+    "Problem with a purchase shown on your statement",
+    "Problem with fraud alerts or security freezes",
+    "Struggling to pay your bill",
+    "Trouble using your card",
+    "Unable to get your credit report or credit score"
+  ],
+  "inputs": [
+    {
+      "path": "data/processed/credit_card_training_text.parquet",
+      "size_bytes": 13288889,
+      "sha256": "20693b6420b45218287fa1bb7419ed28c228f716911cc56a1f8f35862658617c"
+    },
+    {
+      "path": "data/processed/training_text_quality_flags.parquet",
+      "size_bytes": 1389341,
+      "sha256": "f6c57d02ff0cbc3503523f4c731f153e83857956e5bbd42c48e2ed10d00e6433"
+    }
+  ],
+  "outputs": [
+    {
+      "path": "data/processed/baseline_training.parquet",
+      "size_bytes": 13792863,
+      "sha256": "d2809fd1f92bb21d378412daf78dd941d1373f89b23ecf006d89d1e47dc3cfb1"
+    },
+    {
+      "path": "data/processed/baseline_sample_membership.parquet",
+      "size_bytes": 785565,
+      "sha256": "273d33ea36d3476fd063d9a2bf2837be7be58ea4317eb41a81eafaf9c945f7ef"
+    }
+  ],
+  "sensitivity_comparison_source": "data/processed/credit_card_training_text.parquet"
+}

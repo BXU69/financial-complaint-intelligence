@@ -12,7 +12,7 @@ Do not merge categories solely because they are rare.
 Check category support again after sample filtering.
 Do not revise the label scheme using final test outcomes.
 
-## Planned Baseline Training Sample
+## Baseline Training Sample
 
 Exclude training text groups with conflicting issue labels.
 For consistent-label exact duplicate groups, retain the earliest record.
@@ -47,5 +47,5 @@ Do not apply an arbitrary minimum length filter.
 
 ## Status
 
-This is the planned policy.
-No baseline sample has been constructed yet.
+The baseline sample has been constructed with 30,180 records across 15 categories.
+No classifier has been fitted or evaluated yet.
