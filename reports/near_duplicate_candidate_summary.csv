@@ -1,0 +1,2 @@
+query_texts,top_k,batch_size,candidate_threshold,unique_candidate_pairs,text_groups_in_candidate_pairs,pairs_with_similarity_ge_095,pairs_with_similarity_ge_099,search_seconds
+30257,5,128,0.9,2942,1704,1994,350,45.9

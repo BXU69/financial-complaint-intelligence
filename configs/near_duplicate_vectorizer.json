@@ -1,0 +1,26 @@
+{
+  "purpose": "Training-only lexical near-duplicate candidate search",
+  "sklearn_version": "1.9.1",
+  "analyzer": "word",
+  "lowercase": true,
+  "ngram_range": [
+    1,
+    2
+  ],
+  "min_df": 2,
+  "max_df": 0.95,
+  "max_features": 50000,
+  "sublinear_tf": true,
+  "norm": "l2",
+  "dtype": "float32",
+  "input_rows": 30257,
+  "candidate_search": {
+    "metric": "cosine",
+    "algorithm": "brute",
+    "top_k_non_self": 5,
+    "batch_size": 128,
+    "threshold": 0.9,
+    "working_memory_mb": 128,
+    "n_jobs": 1
+  }
+}

@@ -1,0 +1,2 @@
+reference_texts,pilot_queries,pilot_seconds,median_best_neighbor_similarity,queries_with_best_similarity_ge_090,rough_full_search_minutes
+30257,128,0.2,0.1776,14,0.8

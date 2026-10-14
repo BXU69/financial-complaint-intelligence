@@ -1,0 +1,4 @@
+similarity_band,near_duplicate,shared_template,same_topic,uncertain,reviewed_pairs
+0.90-0.95,3,7,0,0,10
+0.95-0.99,1,9,0,0,10
+0.99-1.00,7,3,0,0,10

@@ -29,13 +29,15 @@ so the effect of the filtering policy can be assessed.
 Investigate near-duplicates using training data.
 Document normalization, matching criteria, and reviewed examples.
 Do not automatically delete records solely because texts are similar.
-Finalize handling before fitting the baseline.
+Retain near-duplicate candidates for the baseline, subject to the separate exact-duplicate and training-label-conflict rules.
+Do not automatically merge candidates or form transitive clusters from similarity scores.
 
 ## Evaluation
 
 Do not remove validation or test records based on their label conflicts.
 Identify text overlap with training using documented text-based rules.
-Report full-period performance and a separate unseen-text evaluation.
+Report full-period performance and a separate subset excluding exact normalized text overlaps with training.
+Report near-duplicate similarities as diagnostics; do not claim that this subset is free of all text overlap.
 Report the coverage and class support of each evaluation population.
 
 ## Short Text

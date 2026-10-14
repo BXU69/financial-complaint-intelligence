@@ -1,0 +1,2 @@
+text_rows,features,nonzero_entries,zero_vector_rows,sparse_matrix_storage_mb,vectorization_seconds
+30257,50000,6814956,0,54.64,7.43
