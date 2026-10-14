@@ -13,5 +13,16 @@
     }
   ],
   "manifest_created_at_utc": "2026-10-14T00:39:42.123974+00:00",
-  "date_coverage_verified": false
+  "date_coverage_verified": true,
+  "observed_date_coverage": {
+    "earliest_received_date": "2024-08-01",
+    "latest_received_date": "2024-10-31",
+    "missing_received_dates": 0,
+    "unparsed_received_dates": 0
+  },
+  "observed_counts": {
+    "total_rows": 824514,
+    "distinct_complaint_ids": 824514,
+    "rows_with_narrative": 229944
+  }
 }

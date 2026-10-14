@@ -1,0 +1,2 @@
+total_text_rows,distinct_text_keys,repeated_text_groups,rows_in_repeated_groups,excess_repeated_rows,label_conflict_groups,label_conflict_rows,repeated_groups_across_files,repeated_groups_across_months
+33117.0,30257,468,3328.0,2860.0,77,992.0,26,108
